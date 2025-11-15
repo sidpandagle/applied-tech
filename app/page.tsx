@@ -241,7 +241,7 @@ export default function Home() {
               <div className="relative h-full flex items-center justify-center">
                 <div className="relative">
                   <Image
-                    src="https://picsum.photos/seed/hero-manufacturing/600/500"
+                    src="/images/hero/hero.jpg"
                     alt="Manufacturing Excellence"
                     width={600}
                     height={500}
